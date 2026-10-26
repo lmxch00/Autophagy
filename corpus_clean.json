@@ -1,0 +1,2566 @@
+{
+ "query": "SRC:MED AND (TITLE:\"autophagy-related\" OR TITLE:\"autophagy related\") AND (TITLE:prognostic OR TITLE:signature OR TITLE:\"risk score\" OR TITLE:\"risk model\" OR TITLE:\"risk signature\" OR TITLE:\"risk stratification\") AND (FIRST_PDATE:[2021-01-01 TO 2026-10-26]) NOT PUB_TYPE:\"review\"",
+ "retrieved_at": "2026-10-26T13:46:16",
+ "hitCount": 212,
+ "n": 212,
+ "note": "Abstracts removed from this public copy: they are publisher-copyrighted text obtained via Europe PMC and are not redistributed here. The corpus is fully defined by the query above and by the bibliographic fields retained per record.",
+ "records": [
+  {
+   "pmid": "42169872",
+   "pmcid": "PMC13188033",
+   "doi": "10.21037/jgo-2026-1-0088",
+   "title": "Identification of an autophagy-related prognostic signature and validation of WDR45 in colorectal cancer.",
+   "year": "2026",
+   "journal": "J Gastrointest Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42813854",
+   "pmcid": null,
+   "doi": "10.4103/jcrt.jcrt_2467_25",
+   "title": "Prognostic and immunotherapeutic efficacy predictive model for gastric cancer based on ferroptosis- and autophagy-related genes.",
+   "year": "2026",
+   "journal": "J Cancer Res Ther",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42093974",
+   "pmcid": "PMC13139068",
+   "doi": "10.3389/fimmu.2026.1820929",
+   "title": "Integrated single-cell and bulk transcriptomics identify autophagy-related immune-suppressive subtypes and a prognostic signature in colorectal cancer.",
+   "year": "2026",
+   "journal": "Front Immunol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41793596",
+   "pmcid": "PMC13083393",
+   "doi": "10.1007/s12672-026-04771-1",
+   "title": "Autophagy-related gene-based prognostic model for breast cancer.",
+   "year": "2026",
+   "journal": "Discov Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42276250",
+   "pmcid": null,
+   "doi": "10.1016/j.jormas.2026.102874",
+   "title": "Prognostic analysis of autophagy-related differentially expressed genes in oral squamous cell carcinoma.",
+   "year": "2026",
+   "journal": "J Stomatol Oral Maxillofac Surg",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40592763",
+   "pmcid": "PMC12215040",
+   "doi": "10.4062/biomolther.2025.010",
+   "title": "Identification of Autophagy-Related Prognostic Signature for Glioblastoma Standard Therapy.",
+   "year": "2025",
+   "journal": "Biomol Ther (Seoul)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41681864",
+   "pmcid": "PMC12897147",
+   "doi": "10.3390/cancers18030388",
+   "title": "Identification and Validation of an Autophagy-Related Gene Signature for Prognostic Prediction and Immunotherapy Response in Esophageal Squamous Cell Carcinoma.",
+   "year": "2026",
+   "journal": "Cancers (Basel)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42458969",
+   "pmcid": null,
+   "doi": "10.5114/pjp.2026.161233",
+   "title": "Prognostic significance of hypoxia-induced autophagy related markers in malignant surface epithelial ovarian tumours.",
+   "year": "2026",
+   "journal": "Pol J Pathol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41902657",
+   "pmcid": "PMC13140268",
+   "doi": "10.1155/mi/3900151",
+   "title": "Analysis of Autophagy-Related Gene Signature Associated With Clinical Prognosis and Immune Microenvironment in Colorectal Cancer.",
+   "year": "2026",
+   "journal": "Mediators Inflamm",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41821654",
+   "pmcid": "PMC12976212",
+   "doi": "10.1007/s13205-026-04756-5",
+   "title": "Identification of a 9-gene autophagy-related signature for predicting prognosis and immune exhaustion features in breast cancer.",
+   "year": "2026",
+   "journal": "3 Biotech",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42292425",
+   "pmcid": "PMC13254102",
+   "doi": "10.3389/fimmu.2026.1766278",
+   "title": "Development and validation of an m6A and autophagy related lncRNAs signature for predicting survival and modulating the immune microenvironment in esophageal squamous cell carcinoma.",
+   "year": "2026",
+   "journal": "Front Immunol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41727664",
+   "pmcid": "PMC12920215",
+   "doi": "10.3389/fonc.2026.1729996",
+   "title": "The clinical significance and prognostic implication of autophagy-related gene 13 in human gastric cancer.",
+   "year": "2026",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39246674",
+   "pmcid": "PMC11379032",
+   "doi": "10.2147/bctt.s475007",
+   "title": "A Prognostic Risk Signature of Two Autophagy-Related Genes for Predicting Triple-Negative Breast Cancer Outcomes.",
+   "year": "2024",
+   "journal": "Breast Cancer (Dove Med Press)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41905110",
+   "pmcid": null,
+   "doi": "10.1016/j.tube.2026.102760",
+   "title": "Identification of an autophagy-related novel signature for spinal tuberculosis: a multi-cohort machine learning study and Mendelian randomization analysis.",
+   "year": "2026",
+   "journal": "Tuberculosis (Edinb)",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41298756",
+   "pmcid": "PMC12657988",
+   "doi": "10.1038/s41598-025-26358-6",
+   "title": "A autophagy related gene signature to predict the prognosis of pancreatic carcinoma and tumor immune microenvironment evaluation.",
+   "year": "2025",
+   "journal": "Sci Rep",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38991630",
+   "pmcid": null,
+   "doi": "10.1016/j.intimp.2024.112623",
+   "title": "Machine learning-based autophagy-related prognostic signature for personalized risk stratification and therapeutic approaches in bladder cancer.",
+   "year": "2024",
+   "journal": "Int Immunopharmacol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "42063417",
+   "pmcid": "PMC13126270",
+   "doi": "10.1016/j.gendis.2025.101929",
+   "title": "An autophagy-related molecule reticulon 3 functions as a novel prognostic biomarker in hepatocellular carcinoma.",
+   "year": "2026",
+   "journal": "Genes Dis",
+   "pubType": [
+    "brief-report",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40487315",
+   "pmcid": "PMC12141863",
+   "doi": "10.3389/fcimb.2025.1600348",
+   "title": "Development of a four autophagy-related gene signature for active tuberculosis diagnosis.",
+   "year": "2025",
+   "journal": "Front Cell Infect Microbiol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41716403",
+   "pmcid": "PMC12913385",
+   "doi": "10.3389/fimmu.2026.1701514",
+   "title": "In the diffuse large B-cell lymphoma microenvironment, SIRT1 is upregulated and correlated with a pro-inflammatory macrophage signature and autophagy-related gene expression.",
+   "year": "2026",
+   "journal": "Front Immunol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41040512",
+   "pmcid": "PMC12483933",
+   "doi": "10.3389/fonc.2025.1635596",
+   "title": "Integration of autophagy-related genes and immune dysregulation reveals a prognostic landscape in multiple myeloma.",
+   "year": "2025",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40228246",
+   "pmcid": "PMC11999454",
+   "doi": "10.1097/md.0000000000042122",
+   "title": "Construction of a prognostic model for autophagy-related LncRNAs in lung adenocarcinoma.",
+   "year": "2025",
+   "journal": "Medicine (Baltimore)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40530112",
+   "pmcid": "PMC12170119",
+   "doi": "10.21037/tcr-24-1708",
+   "title": "Prognostic role of tumor microenvironment and immune- and autophagy-related genes in colorectal adenocarcinoma.",
+   "year": "2025",
+   "journal": "Transl Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38282156",
+   "pmcid": null,
+   "doi": "10.1002/jgm.3648",
+   "title": "Autophagy-related risk signature based on CDNK2A to facilitate survival prediction of patients with endometrial cancer.",
+   "year": "2024",
+   "journal": "J Gene Med",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39443755",
+   "pmcid": "PMC11499073",
+   "doi": "10.1002/cnr2.70000",
+   "title": "A Four-Gene Autophagy-Related Prognostic Model Signature and Its Association With Immune Phenotype in Lung Squamous Cell Carcinoma.",
+   "year": "2024",
+   "journal": "Cancer Rep (Hoboken)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40056287",
+   "pmcid": "PMC11890388",
+   "doi": "10.1007/s12672-025-02042-z",
+   "title": "Mitochondrial autophagy-related lncRNAs as prognostic biomarkers and therapeutic targets in gastric adenocarcinoma.",
+   "year": "2025",
+   "journal": "Discov Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38321105",
+   "pmcid": "PMC10847443",
+   "doi": "10.1038/s41598-024-53565-4",
+   "title": "Identification and verification of a prognostic autophagy-related gene signature in hepatocellular carcinoma.",
+   "year": "2024",
+   "journal": "Sci Rep",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39760097",
+   "pmcid": "PMC11700244",
+   "doi": "10.1016/j.bbrep.2024.101893",
+   "title": "Construction and evaluation of a prognostic model of autophagy-related genes in hepatocellular carcinoma.",
+   "year": "2025",
+   "journal": "Biochem Biophys Rep",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40330698",
+   "pmcid": "PMC12051938",
+   "doi": "10.7717/peerj.19366",
+   "title": "A comprehensive analysis identified an autophagy-related risk model for predicting recurrence and immunotherapy response in stage I lung adenocarcinoma.",
+   "year": "2025",
+   "journal": "PeerJ",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40591082",
+   "pmcid": "PMC12214228",
+   "doi": "10.1007/s12672-025-03061-6",
+   "title": "Prognostic analysis and mechanistic exploration of the autophagy-related exosome genes ITGA3, ITGB4, and PTK6 in pancreatic ductal adenocarcinoma.",
+   "year": "2025",
+   "journal": "Discov Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "41042951",
+   "pmcid": null,
+   "doi": "10.1177/03936155251383945",
+   "title": "The autophagy-related gene &lt;i&gt;PEA15&lt;/i&gt; is a potential prognostic biomarker for early-stage endometrial carcinoma.",
+   "year": "2025",
+   "journal": "Int J Biol Markers",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39729208",
+   "pmcid": "PMC11680532",
+   "doi": "10.1007/s12672-024-01731-5",
+   "title": "The role of autophagy related 12 (ATG12) in the progression of hepatocellular carcinoma and its prognostic value.",
+   "year": "2024",
+   "journal": "Discov Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40401006",
+   "pmcid": "PMC12089887",
+   "doi": "10.62347/xpcm9169",
+   "title": "Comprehensive analysis of autophagy-related prognostic genes in breast cancer using bulk and single-cell RNA sequencing.",
+   "year": "2025",
+   "journal": "Am J Clin Exp Immunol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38204266",
+   "pmcid": null,
+   "doi": "10.2174/0115748928275025231213103658",
+   "title": "Comprehensive Bioinformatic Analysis Reveals an Autophagy-related Gene Signature for Predicting Outcome, Immune Status, and Drug Sensitivity in Hepatocellular Carcinoma.",
+   "year": "2025",
+   "journal": "Recent Pat Anticancer Drug Discov",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34691238",
+   "pmcid": "PMC8529386",
+   "doi": "10.1155/2021/5770228",
+   "title": "An Autophagy-Related Gene-Based Prognostic Risk Signature for Hepatocellular Carcinoma: Construction and Validation.",
+   "year": "2021",
+   "journal": "Comput Math Methods Med",
+   "pubType": [
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35860692",
+   "pmcid": "PMC9293571",
+   "doi": "10.1155/2022/7598942",
+   "title": "Signature for Prostate Cancer Based on Autophagy-Related Genes and a Nomogram for Quantitative Risk Stratification.",
+   "year": "2022",
+   "journal": "Dis Markers",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38800594",
+   "pmcid": "PMC11122227",
+   "doi": "10.2147/jir.s455862",
+   "title": "PANoptosis and Autophagy-Related Molecular Signature and Immune Landscape in Ulcerative Colitis: Integrated Analysis and Experimental Validation.",
+   "year": "2024",
+   "journal": "J Inflamm Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35210825",
+   "pmcid": "PMC8857975",
+   "doi": "10.2147/ijgm.s335571",
+   "title": "Identification of a Nomogram with an Autophagy-Related Risk Signature for Survival Prediction in Patients with Glioma.",
+   "year": "2022",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39128415",
+   "pmcid": null,
+   "doi": "10.1016/j.intimp.2024.112737",
+   "title": "Construction of an autophagy-related genes risk model as predicting prognosis: BAG1 suppresses growth of clear cell renal cell carcinoma.",
+   "year": "2024",
+   "journal": "Int Immunopharmacol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37525915",
+   "pmcid": null,
+   "doi": "10.31083/j.fbl2807132",
+   "title": "A Potential Autophagy-Related-Gene Based Signature in Patients with Preeclampsia.",
+   "year": "2023",
+   "journal": "Front Biosci (Landmark Ed)",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36210389",
+   "pmcid": "PMC13325441",
+   "doi": "10.1186/s43046-022-00135-2",
+   "title": "An eleven autophagy-related genes-based prognostic signature for endometrial carcinoma.",
+   "year": "2022",
+   "journal": "J Egypt Natl Canc Inst",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36966915",
+   "pmcid": null,
+   "doi": "10.1016/j.lfs.2023.121599",
+   "title": "A novel signature of autophagy-related immunophenotyping biomarkers in osteoarthritis.",
+   "year": "2023",
+   "journal": "Life Sci",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35411177",
+   "pmcid": "PMC8994655",
+   "doi": "10.2147/ijgm.s348943",
+   "title": "Construction of a Prognostic Signature of 10 Autophagy-Related lncRNAs in Gastric Cancer.",
+   "year": "2022",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34724113",
+   "pmcid": null,
+   "doi": "10.1007/s00405-021-07134-4",
+   "title": "An autophagy-related lncRNA prognostic risk model for thyroid cancer.",
+   "year": "2022",
+   "journal": "Eur Arch Otorhinolaryngol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34814818",
+   "pmcid": null,
+   "doi": "10.2174/1566524021666211123093532",
+   "title": "Autophagy-related Prognostic Signature in HER2 Positive Gastric Carcinomas.",
+   "year": "2022",
+   "journal": "Curr Mol Med",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36496360",
+   "pmcid": "PMC9741795",
+   "doi": "10.1186/s12894-022-01148-8",
+   "title": "A novel autophagy-related long non-coding RNAs prognostic risk score for clear cell renal cell carcinoma.",
+   "year": "2022",
+   "journal": "BMC Urol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35402580",
+   "pmcid": "PMC8987880",
+   "doi": "10.21037/atm-22-166",
+   "title": "Risk score model of autophagy-related genes in osteosarcoma.",
+   "year": "2022",
+   "journal": "Ann Transl Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "39267668",
+   "pmcid": "PMC11387868",
+   "doi": "10.62347/ecdf2762",
+   "title": "Integrative analysis of autophagy-related genes reveals that CAPNS1 is a novel prognostic biomarker and promotes the malignancy of melanoma via Notch signaling pathway.",
+   "year": "2024",
+   "journal": "Am J Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35195559",
+   "pmcid": null,
+   "doi": "10.1097/coc.0000000000000890",
+   "title": "Prognostic Implications of an Autophagy-related Gene Signature in Pancreatic Ductal Adenocarcinoma.",
+   "year": "2022",
+   "journal": "Am J Clin Oncol",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35860474",
+   "pmcid": "PMC9289723",
+   "doi": "10.3389/fgene.2022.904512",
+   "title": "Corrigendum: A New Prognostic Risk Score: Based on the Analysis of Autophagy-Related Genes and Renal Cell Carcinoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "Published Erratum",
+    "correction"
+   ]
+  },
+  {
+   "pmid": "38461356",
+   "pmcid": "PMC10924944",
+   "doi": "10.1038/s42003-024-05980-6",
+   "title": "Crosstalk of cell death pathways unveils an autophagy-related gene AOC3 as a critical prognostic marker in colorectal cancer.",
+   "year": "2024",
+   "journal": "Commun Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36689018",
+   "pmcid": null,
+   "doi": "10.1007/s10142-022-00957-2",
+   "title": "Construction and validation of a bladder cancer risk model based on autophagy-related genes.",
+   "year": "2023",
+   "journal": "Funct Integr Genomics",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35237298",
+   "pmcid": "PMC8884161",
+   "doi": "10.3389/fgene.2021.820154",
+   "title": "A New Prognostic Risk Score: Based on the Analysis of Autophagy-Related Genes and Renal Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36052243",
+   "pmcid": "PMC9424910",
+   "doi": "10.3389/fonc.2022.959337",
+   "title": "Autophagy-related prognostic signature characterizes tumor microenvironment and predicts response to ferroptosis in gastric cancer.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "38455413",
+   "pmcid": "PMC10915326",
+   "doi": "10.62347/xtdz5687",
+   "title": "Autophagy-related long non-coding RNAs act as prognostic biomarkers and associate with tumor microenvironment in prostate cancer.",
+   "year": "2024",
+   "journal": "Am J Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36756126",
+   "pmcid": "PMC9900120",
+   "doi": "10.3389/fimmu.2023.1064704",
+   "title": "Autophagy-related IFNG is a prognostic and immunochemotherapeutic biomarker of COAD patients.",
+   "year": "2023",
+   "journal": "Front Immunol",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35550147",
+   "pmcid": "PMC9097333",
+   "doi": "10.1186/s12920-022-01261-5",
+   "title": "Identification of a novel autophagy-related prognostic signature and small molecule drugs for glioblastoma by bioinformatics.",
+   "year": "2022",
+   "journal": "BMC Med Genomics",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37120633",
+   "pmcid": "PMC10148536",
+   "doi": "10.1186/s13048-023-01167-5",
+   "title": "A novel autophagy-related gene signature associated with prognosis and immune microenvironment in ovarian cancer.",
+   "year": "2023",
+   "journal": "J Ovarian Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34001111",
+   "pmcid": "PMC8130280",
+   "doi": "10.1186/s12935-021-01970-4",
+   "title": "A novel autophagy-related genes prognostic risk model and validation of autophagy-related oncogene VPS35 in breast cancer.",
+   "year": "2021",
+   "journal": "Cancer Cell Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35186475",
+   "pmcid": "PMC8840057",
+   "doi": "10.7717/peerj.12878",
+   "title": "Autophagy-related prognostic signature for survival prediction of triple negative breast cancer.",
+   "year": "2022",
+   "journal": "PeerJ",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35923699",
+   "pmcid": "PMC9342864",
+   "doi": "10.3389/fgene.2022.905751",
+   "title": "Prognostic Model and Nomogram Construction and Validation With an Autophagy-Related Gene Signature in Low-Grade Gliomas.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36830707",
+   "pmcid": "PMC9953331",
+   "doi": "10.3390/biom13020339",
+   "title": "Identification of an Autophagy-Related Signature for Prognosis and Immunotherapy Response Prediction in Ovarian Cancer.",
+   "year": "2023",
+   "journal": "Biomolecules",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34746127",
+   "pmcid": "PMC8567030",
+   "doi": "10.3389/fcell.2021.731380",
+   "title": "Identification of an Autophagy-Related Risk Signature Correlates With Immunophenotype and Predicts Immune Checkpoint Blockade Efficacy of Neuroblastoma.",
+   "year": "2021",
+   "journal": "Front Cell Dev Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34374416",
+   "pmcid": "PMC8380919",
+   "doi": "10.1042/bsr20211098",
+   "title": "Immune implication of an autophagy-related prognostic signature in uveal melanoma.",
+   "year": "2021",
+   "journal": "Biosci Rep",
+   "pubType": [
+    "article-commentary",
+    "Comment",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37670976",
+   "pmcid": "PMC10475358",
+   "doi": "10.7150/jca.86735",
+   "title": "TNFSF10, an autophagy related gene, was a prognostic and immune infiltration marker in skin cutaneous melanoma.",
+   "year": "2023",
+   "journal": "J Cancer",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34335109",
+   "pmcid": "PMC8322075",
+   "doi": "10.3389/pore.2021.1609782",
+   "title": "Prognostic Signature of Osteosarcoma Based on 14 Autophagy-Related Genes.",
+   "year": "2021",
+   "journal": "Pathol Oncol Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35832188",
+   "pmcid": "PMC9271611",
+   "doi": "10.3389/fgene.2022.894990",
+   "title": "Risk Stratification and Validation of Eleven Autophagy-Related lncRNAs for Esophageal Squamous Cell Carcinoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35018237",
+   "pmcid": "PMC8727816",
+   "doi": null,
+   "title": "Establishment and validation of an autophagy-related prognostic signature for survival predicting in cutaneous melanoma.",
+   "year": "2021",
+   "journal": "Am J Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35070424",
+   "pmcid": "PMC8748040",
+   "doi": "10.21037/jgo-21-664",
+   "title": "Screening of a novel autophagy-related prognostic signature and therapeutic targets in hepatocellular carcinoma.",
+   "year": "2021",
+   "journal": "J Gastrointest Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36814212",
+   "pmcid": "PMC9945660",
+   "doi": "10.1186/s12903-023-02806-5",
+   "title": "An autophagy-related long non-coding RNA signature in tongue squamous cell carcinoma.",
+   "year": "2023",
+   "journal": "BMC Oral Health",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33910497",
+   "pmcid": "PMC8080392",
+   "doi": "10.1186/s12859-021-04123-6",
+   "title": "The prognostic value of an autophagy-related lncRNA signature in hepatocellular carcinoma.",
+   "year": "2021",
+   "journal": "BMC Bioinformatics",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37325865",
+   "pmcid": null,
+   "doi": "10.1142/s0219720023500129",
+   "title": "Identification of a seven autophagy-related gene pairs signature for the diagnosis of colorectal cancer using the RankComp algorithm.",
+   "year": "2023",
+   "journal": "J Bioinform Comput Biol",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37701780",
+   "pmcid": "PMC10493283",
+   "doi": "10.3389/fcell.2023.1218379",
+   "title": "Diagnostic and prognostic value of autophagy-related key genes in sepsis and potential correlation with immune cell signatures.",
+   "year": "2023",
+   "journal": "Front Cell Dev Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37370041",
+   "pmcid": "PMC10294479",
+   "doi": "10.1186/s12864-023-09367-5",
+   "title": "Construction and validation of a prognostic model based on autophagy-related genes for hepatocellular carcinoma in the Asian population.",
+   "year": "2023",
+   "journal": "BMC Genomics",
+   "pubType": [
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34221960",
+   "pmcid": "PMC8252967",
+   "doi": "10.3389/fonc.2021.632387",
+   "title": "Construction and Validation of an Autophagy-Related Prognostic Signature and a Nomogram for Bladder Cancer.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35036428",
+   "pmcid": "PMC8758260",
+   "doi": "10.1155/2022/2067540",
+   "title": "A Novel Autophagy-Related Prognostic Risk Model and a Nomogram for Survival Prediction of Oral Cancer Patients.",
+   "year": "2022",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36937439",
+   "pmcid": "PMC10022822",
+   "doi": "10.3389/fonc.2023.1105778",
+   "title": "Comprehensive analysis of autophagy-related clusters and individual risk model for immunotherapy response prediction in gastric cancer.",
+   "year": "2023",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34926294",
+   "pmcid": "PMC8674813",
+   "doi": "10.3389/fonc.2021.780601",
+   "title": "Identification and Validation of Three Autophagy-Related Long Noncoding RNAs as Prognostic Signature in Cholangiocarcinoma.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35116589",
+   "pmcid": "PMC8797385",
+   "doi": "10.21037/tcr-21-191",
+   "title": "Development of a novel autophagy-related gene prognostic signature for gastric cancer.",
+   "year": "2021",
+   "journal": "Transl Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33708944",
+   "pmcid": "PMC7944288",
+   "doi": "10.21037/atm-20-4541",
+   "title": "Development and validation of an autophagy-related prognostic signature in esophageal cancer.",
+   "year": "2021",
+   "journal": "Ann Transl Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34358365",
+   "pmcid": null,
+   "doi": "10.1111/jop.13231",
+   "title": "Identification of an autophagy-related prognostic signature in head and neck squamous cell carcinoma.",
+   "year": "2021",
+   "journal": "J Oral Pathol Med",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36408157",
+   "pmcid": "PMC9669765",
+   "doi": "10.3389/fonc.2022.1049773",
+   "title": "Development and validation of an autophagy-related long non-coding RNA prognostic signature for cervical squamous cell carcinoma and endocervical adenocarcinoma.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35928921",
+   "pmcid": "PMC9345713",
+   "doi": "10.1155/2022/9265088",
+   "title": "Establishment and Analysis of a Prognostic Model of Autophagy-Related lncRNAs in ESCA.",
+   "year": "2022",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36721247",
+   "pmcid": "PMC9890868",
+   "doi": "10.1186/s41065-023-00263-2",
+   "title": "Development of a risk model based on autophagy-related genes to predict survival and immunotherapy response in ovarian cancer.",
+   "year": "2023",
+   "journal": "Hereditas",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36586072",
+   "pmcid": "PMC9805482",
+   "doi": "10.1007/s12672-022-00608-9",
+   "title": "Construction and validation of a prognostic model for osteosarcoma patients based on autophagy-related genes.",
+   "year": "2022",
+   "journal": "Discov Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35186763",
+   "pmcid": "PMC8854264",
+   "doi": "10.3389/fonc.2022.829045",
+   "title": "Construction and Validation of a Prognostic Risk Model for Triple-Negative Breast Cancer Based on Autophagy-Related Genes.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35261881",
+   "pmcid": "PMC8841483",
+   "doi": "10.21037/tcr-21-1554",
+   "title": "A novel signature based on autophagy-related lncRNA for prognostic prediction and candidate drugs for lung adenocarcinoma.",
+   "year": "2022",
+   "journal": "Transl Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33676525",
+   "pmcid": "PMC7937322",
+   "doi": "10.1186/s13048-021-00791-3",
+   "title": "Construction autophagy-related prognostic risk signature to facilitate survival prediction, individual treatment and biomarker excavation of epithelial ovarian cancer patients.",
+   "year": "2021",
+   "journal": "J Ovarian Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35402224",
+   "pmcid": "PMC8987527",
+   "doi": "10.3389/fonc.2022.654449",
+   "title": "Autophagy-Related Signatures as Prognostic Indicators for Hepatocellular Carcinoma.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35366391",
+   "pmcid": "PMC9519154",
+   "doi": "10.17305/bjbms.2021.7019",
+   "title": "Exploring autophagy-related prognostic genes of Alzheimer's disease based on pathway crosstalk analysis.",
+   "year": "2022",
+   "journal": "Bosn J Basic Med Sci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34956321",
+   "pmcid": "PMC8692741",
+   "doi": "10.3389/fgene.2021.767694",
+   "title": "Identification of an Autophagy-Related lncRNA Prognostic Signature and Related Tumor Immunity Research in Lung Adenocarcinoma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33694315",
+   "pmcid": "PMC8051719",
+   "doi": "10.1111/jcmm.16378",
+   "title": "Identification of autophagy-related long non-coding RNA prognostic signature for breast cancer.",
+   "year": "2021",
+   "journal": "J Cell Mol Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36829596",
+   "pmcid": "PMC9952986",
+   "doi": "10.3390/biology12020319",
+   "title": "Identification of Wnt/β-Catenin- and Autophagy-Related lncRNA Signature for Predicting Immune Efficacy in Pancreatic Adenocarcinoma.",
+   "year": "2023",
+   "journal": "Biology (Basel)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33858375",
+   "pmcid": "PMC8048278",
+   "doi": "10.1186/s12885-021-08139-2",
+   "title": "Construction autophagy-related prognostic risk signature combined with clinicopathological validation analysis for survival prediction of kidney renal papillary cell carcinoma patients.",
+   "year": "2021",
+   "journal": "BMC Cancer",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35152365",
+   "pmcid": null,
+   "doi": "10.1007/s11010-022-04368-6",
+   "title": "An innovative prognostic model based on autophagy-related long noncoding RNA signature for low-grade glioma.",
+   "year": "2022",
+   "journal": "Mol Cell Biochem",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36046056",
+   "pmcid": "PMC9421005",
+   "doi": "10.1177/11769343221120960",
+   "title": "Construction of a Prognostic Nomogram Based on Autophagy-Related Genes for Children With Neuroblastoma.",
+   "year": "2022",
+   "journal": "Evol Bioinform Online",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37065476",
+   "pmcid": "PMC10097963",
+   "doi": "10.3389/fgene.2023.1109683",
+   "title": "Prognostic value of autophagy-related genes based on single-cell RNA-sequencing in colorectal cancer.",
+   "year": "2023",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34497633",
+   "pmcid": "PMC8419440",
+   "doi": "10.3389/fgene.2021.689801",
+   "title": "A Prognostic Autophagy-Related Gene Pair Signature and Small-Molecule Drugs for Hepatocellular Carcinoma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36530992",
+   "pmcid": "PMC9753905",
+   "doi": "10.3389/fonc.2022.1014845",
+   "title": "An autophagy-related four-lncRNA signature helps to predict progression-free survival of neuroblastoma patients.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34636718",
+   "pmcid": "PMC8806698",
+   "doi": "10.1080/21655979.2021.1976050",
+   "title": "A new prognostic risk model based on autophagy-related genes in kidney renal clear cell carcinoma.",
+   "year": "2021",
+   "journal": "Bioengineered",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34790823",
+   "pmcid": "PMC8592714",
+   "doi": "10.1155/2021/7918693",
+   "title": "Identification of Autophagy-Related Prognostic Signature and Analysis of Immune Cell Infiltration in Low-Grade Gliomas.",
+   "year": "2021",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34391383",
+   "pmcid": "PMC8364711",
+   "doi": "10.1186/s12885-021-08654-2",
+   "title": "Construction of a prognostic signature of autophagy-related lncRNAs in non-small-cell lung cancer.",
+   "year": "2021",
+   "journal": "BMC Cancer",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36856932",
+   "pmcid": null,
+   "doi": "10.1007/s12282-023-01440-x",
+   "title": "Construction of a prognostic risk assessment model for HER2 + breast cancer based on autophagy-related genes.",
+   "year": "2023",
+   "journal": "Breast Cancer",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34525929",
+   "pmcid": null,
+   "doi": "10.2174/1386207324666210826143727",
+   "title": "A Prognostic Nomogram for Predicting Overall Survival in Pediatric Wilms Tumor Based on an Autophagy-related Gene Signature.",
+   "year": "2022",
+   "journal": "Comb Chem High Throughput Screen",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36276067",
+   "pmcid": "PMC9585256",
+   "doi": "10.3389/fonc.2022.1006278",
+   "title": "Development of a novel autophagy-related gene model for gastric cancer prognostic prediction.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34587439",
+   "pmcid": null,
+   "doi": "10.1615/critreveukaryotgeneexpr.2021038733",
+   "title": "A Four Autophagy-Related Gene-Based Prognostic Signature for Pancreatic Cancer.",
+   "year": "2021",
+   "journal": "Crit Rev Eukaryot Gene Expr",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36325670",
+   "pmcid": "PMC9648085",
+   "doi": null,
+   "title": "Prognostic relevance of autophagy-related markers p62, LC3, and Beclin1 in ovarian cancer.",
+   "year": "2022",
+   "journal": "Croat Med J",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34660307",
+   "pmcid": "PMC8517509",
+   "doi": "10.3389/fonc.2021.743611",
+   "title": "Development and Validation of an Autophagy-Related LncRNA Prognostic Signature in Head and Neck Squamous Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33622179",
+   "pmcid": "PMC8806227",
+   "doi": "10.1080/21655979.2021.1880084",
+   "title": "A signature of 13 autophagy‑related gene pairs predicts prognosis in hepatocellular carcinoma.",
+   "year": "2021",
+   "journal": "Bioengineered",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35282059",
+   "pmcid": "PMC8848359",
+   "doi": "10.21037/atm-21-6251",
+   "title": "Autophagy related long non-coding RNA and breast cancer prognosis analysis and prognostic risk model establishment.",
+   "year": "2022",
+   "journal": "Ann Transl Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37296474",
+   "pmcid": "PMC10257287",
+   "doi": "10.1186/s13148-023-01501-0",
+   "title": "ATHENA: an independently validated autophagy-related epigenetic prognostic prediction model of head and neck squamous cell carcinoma.",
+   "year": "2023",
+   "journal": "Clin Epigenetics",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33682883",
+   "pmcid": "PMC7982771",
+   "doi": "10.1042/bsr20203812",
+   "title": "An autophagy-related prognostic signature associated with immune microenvironment features of uveal melanoma.",
+   "year": "2021",
+   "journal": "Biosci Rep",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35459137",
+   "pmcid": "PMC9034603",
+   "doi": "10.1186/s12957-022-02590-6",
+   "title": "A seven-autophagy-related gene signature for predicting the prognosis of differentiated thyroid carcinoma.",
+   "year": "2022",
+   "journal": "World J Surg Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33534780",
+   "pmcid": "PMC7950257",
+   "doi": "10.18632/aging.202431",
+   "title": "Prognostic value of an autophagy-related long-noncoding-RNA signature for endometrial cancer.",
+   "year": "2021",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34082670",
+   "pmcid": null,
+   "doi": "10.2174/1386207324666210603122718",
+   "title": "An Autophagy-related Long Non-coding RNA Signature for Breast Cancer.",
+   "year": "2022",
+   "journal": "Comb Chem High Throughput Screen",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36412461",
+   "pmcid": "PMC10069683",
+   "doi": "10.4103/aja202281",
+   "title": "An autophagy-related gene prognostic index predicting biochemical recurrence, metastasis, and drug resistance for prostate cancer.",
+   "year": "2023",
+   "journal": "Asian J Androl",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35902797",
+   "pmcid": "PMC9335970",
+   "doi": "10.1186/s12859-022-04849-x",
+   "title": "The prognostic value of autophagy related genes with potential protective function in Ewing sarcoma.",
+   "year": "2022",
+   "journal": "BMC Bioinformatics",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33878525",
+   "pmcid": "PMC8080081",
+   "doi": "10.1016/j.tranon.2021.101094",
+   "title": "Identification and validation of autophagy-related prognostic signature for head and neck squamous cell carcinoma.",
+   "year": "2021",
+   "journal": "Transl Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34336650",
+   "pmcid": "PMC8321089",
+   "doi": "10.3389/fonc.2021.650891",
+   "title": "Autophagy-Related Three-Gene Prognostic Signature for Predicting Survival in Esophageal Squamous Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35414328",
+   "pmcid": "PMC9302510",
+   "doi": "10.1080/15384101.2022.2065149",
+   "title": "Expression status and prognostic value of autophagy-related lncRNAs in prostate cancer.",
+   "year": "2022",
+   "journal": "Cell Cycle",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34313248",
+   "pmcid": null,
+   "doi": "10.1007/s12038-021-00189-9",
+   "title": "Prognostic value and immunological characteristics of a novel autophagy-related signature in pancreatic cancer.",
+   "year": "2021",
+   "journal": "J Biosci",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34970559",
+   "pmcid": "PMC8712323",
+   "doi": "10.3389/fmed.2021.762570",
+   "title": "Development and Validation of a Prognostic Signature Associated With Tumor Microenvironment Based on Autophagy-Related lncRNA Analysis in Hepatocellular Carcinoma.",
+   "year": "2021",
+   "journal": "Front Med (Lausanne)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35069935",
+   "pmcid": "PMC8776460",
+   "doi": "10.1155/2022/8556593",
+   "title": "Screening of Autophagy-Related Prognostic Genes in Metastatic Skin Melanoma.",
+   "year": "2022",
+   "journal": "Dis Markers",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36894323",
+   "pmcid": null,
+   "doi": "10.1111/jgh.16172",
+   "title": "Construction of endothelial cell-related and autophagy-related prognostic models for hepatocellular carcinoma based on single-cell data.",
+   "year": "2023",
+   "journal": "J Gastroenterol Hepatol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37232085",
+   "pmcid": null,
+   "doi": "10.1002/cbf.3815",
+   "title": "Autophagy-related gene PXN as a prognostic marker: Promotion of ovarian cancer progression by suppressing the p110β/Vps34/Beclin1 pathway.",
+   "year": "2023",
+   "journal": "Cell Biochem Funct",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37014321",
+   "pmcid": "PMC10120910",
+   "doi": "10.18632/aging.204632",
+   "title": "Bioinformatics analysis and experimental validation of a novel autophagy-related signature relevant to immune infiltration for recurrence prediction after curative hepatectomy.",
+   "year": "2023",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33768004",
+   "pmcid": "PMC7985555",
+   "doi": "10.3389/fonc.2021.644443",
+   "title": "Prognostic Value of an Autophagy-Related Five-Gene Signature for Lower-Grade Glioma Patients.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35488119",
+   "pmcid": "PMC9054801",
+   "doi": "10.1038/s41598-022-11050-w",
+   "title": "Identification of an autophagy-related gene signature for predicting prognosis and immune activity in pancreatic adenocarcinoma.",
+   "year": "2022",
+   "journal": "Sci Rep",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34703297",
+   "pmcid": "PMC8541751",
+   "doi": "10.2147/ijgm.s331959",
+   "title": "A Novel Autophagy-Related lncRNA Prognostic Signature Associated with Immune Microenvironment and Survival Outcomes of Gastric Cancer Patients.",
+   "year": "2021",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33925460",
+   "pmcid": "PMC8146553",
+   "doi": "10.3390/biology10050375",
+   "title": "Identification of an 11-Autophagy-Related-Gene Signature as Promising Prognostic Biomarker for Bladder Cancer Patients.",
+   "year": "2021",
+   "journal": "Biology (Basel)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33633773",
+   "pmcid": "PMC7900625",
+   "doi": "10.3389/fgene.2020.616998",
+   "title": "Application of an Autophagy-Related Gene Prognostic Risk Model Based on TCGA Database in Cervical Cancer.",
+   "year": "2020",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33505990",
+   "pmcid": "PMC7831610",
+   "doi": "10.3389/fmolb.2020.611626",
+   "title": "Identification of a Five-Autophagy-Related-lncRNA Signature as a Novel Prognostic Biomarker for Hepatocellular Carcinoma.",
+   "year": "2020",
+   "journal": "Front Mol Biosci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35140317",
+   "pmcid": "PMC8828781",
+   "doi": "10.1038/s41598-022-06334-0",
+   "title": "Prognostic value and underlying mechanism of autophagy-related genes in bladder cancer.",
+   "year": "2022",
+   "journal": "Sci Rep",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36178365",
+   "pmcid": "PMC9550247",
+   "doi": "10.18632/aging.204097",
+   "title": "Establishment and validation of individualized clinical prognostic markers for LUAD patients based on autophagy-related genes.",
+   "year": "2022",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36173625",
+   "pmcid": "PMC9550254",
+   "doi": "10.18632/aging.204313",
+   "title": "Identification and validation of prognostic autophagy-related genes associated with immune microenvironment in human gastric cancer.",
+   "year": "2022",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "37661182",
+   "pmcid": null,
+   "doi": "10.26402/jpp.2023.3.05",
+   "title": "Construction of an autophagy-related eleven long noncoding RNA signature to predict the outcomes, immune cell infiltration, and immunotherapy response in patients with gastric cancer.",
+   "year": "2023",
+   "journal": "J Physiol Pharmacol",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34276784",
+   "pmcid": "PMC8278057",
+   "doi": "10.3389/fgene.2021.681867",
+   "title": "A Prognostic Autophagy-Related Long Non-coding RNA (ARlncRNA) Signature in Acute Myeloid Leukemia (AML).",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34759953",
+   "pmcid": "PMC8573096",
+   "doi": "10.3389/fgene.2021.720849",
+   "title": "Prognostic Autophagy-Related Genes of Gastric Cancer Patients on Chemotherapy.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34696669",
+   "pmcid": "PMC8810042",
+   "doi": "10.1080/21655979.2021.1985818",
+   "title": "Identification and validation of an autophagy-related signature for predicting survival in lower-grade glioma.",
+   "year": "2021",
+   "journal": "Bioengineered",
+   "pubType": [
+    "Video-Audio Media",
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Validation Study",
+    "Pragmatic Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34095224",
+   "pmcid": "PMC8173133",
+   "doi": "10.3389/fmolb.2021.670241",
+   "title": "Autophagy-Related Gene Pairs Signature for the Prognosis of Hepatocellular Carcinoma.",
+   "year": "2021",
+   "journal": "Front Mol Biosci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35250881",
+   "pmcid": "PMC8888901",
+   "doi": "10.3389/fendo.2022.824362",
+   "title": "Identifying and Validating of an Autophagy-Related Gene Signature for the Prediction of Early Relapse in Breast Cancer.",
+   "year": "2022",
+   "journal": "Front Endocrinol (Lausanne)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33614483",
+   "pmcid": "PMC7892971",
+   "doi": "10.3389/fonc.2020.597569",
+   "title": "Identification and Validation of an Autophagy-Related lncRNA Signature for Patients With Breast Cancer.",
+   "year": "2020",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35966301",
+   "pmcid": "PMC9372237",
+   "doi": "10.21037/tcr-22-310",
+   "title": "Autophagy related DNA methylation signature predict clinical prognosis and immune microenvironment in low-grade glioma.",
+   "year": "2022",
+   "journal": "Transl Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34746309",
+   "pmcid": "PMC8568514",
+   "doi": "10.1155/2021/7771037",
+   "title": "Development and Validation of an Autophagy-Related Gene Signature for Predicting the Prognosis of Hepatocellular Carcinoma.",
+   "year": "2021",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34675625",
+   "pmcid": "PMC8520473",
+   "doi": "10.2147/ijgm.s331327",
+   "title": "An Autophagy-Related Long Non-Coding RNA Prognostic Signature for Patients with Lung Squamous Carcinoma Based on Bioinformatics Analysis.",
+   "year": "2021",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36386796",
+   "pmcid": "PMC9641375",
+   "doi": "10.3389/fgene.2022.1050296",
+   "title": "Corrigendum: Identification of an autophagy-related 12-lncRNA signature and evaluation of NFYC-AS1 as a pro-cancer factor in lung adenocarcinoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "Published Erratum",
+    "correction"
+   ]
+  },
+  {
+   "pmid": "34040677",
+   "pmcid": "PMC8121606",
+   "doi": "10.1155/2021/8849977",
+   "title": "A Risk Signature with Autophagy-Related Long Noncoding RNAs for Predicting the Prognosis of Clear Cell Renal Cell Carcinoma: Based on the TCGA Database and Bioinformatics.",
+   "year": "2021",
+   "journal": "Dis Markers",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36591508",
+   "pmcid": "PMC9798206",
+   "doi": "10.3389/fonc.2022.929240",
+   "title": "An autophagy-related long non-coding RNA prognostic model and related immune research for female breast cancer.",
+   "year": "2022",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33510126",
+   "pmcid": "PMC7852040",
+   "doi": "10.12659/msm.927850",
+   "title": "Construction and Evaluation of a Risk Score Model for Autophagy-Related Genes in Esophageal Adenocarcinoma.",
+   "year": "2021",
+   "journal": "Med Sci Monit",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36105077",
+   "pmcid": "PMC9466988",
+   "doi": "10.3389/fgene.2022.834935",
+   "title": "Identification of an autophagy-related 12-lncRNA signature and evaluation of NFYC-AS1 as a pro-cancer factor in lung adenocarcinoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35648284",
+   "pmcid": null,
+   "doi": "10.1007/s11596-022-2560-1",
+   "title": "Signature Based on Six Autophagy-related Genes to Predict Prognosis of Head and Neck Squamous Cell Carcinoma.",
+   "year": "2022",
+   "journal": "Curr Med Sci",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34956177",
+   "pmcid": "PMC8695429",
+   "doi": "10.3389/fimmu.2021.743938",
+   "title": "Identification of an Autophagy-Related Pair Signature for Predicting Prognoses and Immune Activity in Pancreatic Adenocarcinoma.",
+   "year": "2021",
+   "journal": "Front Immunol",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35097120",
+   "pmcid": "PMC8794669",
+   "doi": "10.1155/2022/5614915",
+   "title": "The Prognostic and Molecular Landscape of Autophagy-Related Long Noncoding RNA in Colorectal Cancer.",
+   "year": "2022",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34899841",
+   "pmcid": "PMC8657766",
+   "doi": "10.3389/fgene.2021.755789",
+   "title": "Identification of an Autophagy-Related Gene Signature for the Prediction of Prognosis in Early-Stage Colorectal Cancer.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36389022",
+   "pmcid": "PMC9662042",
+   "doi": "10.2147/ijgm.s381027",
+   "title": "A Seven-Autophagy-Related Long Non-Coding RNA Signature Can Accurately Predict the Prognosis of Patients with Renal Cell Carcinoma.",
+   "year": "2022",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35846146",
+   "pmcid": "PMC9280409",
+   "doi": "10.3389/fgene.2022.862179",
+   "title": "An Autophagy-Related Gene Signature can Better Predict Prognosis and Resistance in Diffuse Large B-Cell Lymphoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34847851",
+   "pmcid": null,
+   "doi": "10.2174/1574892816666211130170149",
+   "title": "Prognostic and Therapeutic Values of Autophagy-related Genes in Triple-negative Breast Cancer.",
+   "year": "2022",
+   "journal": "Recent Pat Anticancer Drug Discov",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34423028",
+   "pmcid": "PMC8373491",
+   "doi": "10.1155/2021/1028158",
+   "title": "Development and Validation of an Autophagy-Related Signature for Head and Neck Squamous Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34532256",
+   "pmcid": "PMC8421821",
+   "doi": "10.21037/tau-21-278",
+   "title": "Identification of autophagy-related long non-coding RNA prognostic and immune signature for clear cell renal cell carcinoma.",
+   "year": "2021",
+   "journal": "Transl Androl Urol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34988121",
+   "pmcid": "PMC8721006",
+   "doi": "10.3389/fmolb.2021.790804",
+   "title": "Identification of a Novel Defined Immune-Autophagy-Related Gene Signature Associated With Clinical and Prognostic Features of Kidney Renal Clear Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Mol Biosci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34194501",
+   "pmcid": "PMC8181090",
+   "doi": "10.1155/2021/9943465",
+   "title": "Construction and Validation of an Autophagy-Related Prognostic Model for Osteosarcoma Patients.",
+   "year": "2021",
+   "journal": "J Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36636069",
+   "pmcid": "PMC9830320",
+   "doi": "10.21037/jgo-22-1130",
+   "title": "Comprehensive analysis of an autophagy-related prognostic model for predicting survival based on TCGA and ICGC database in hepatocellular carcinoma patients.",
+   "year": "2022",
+   "journal": "J Gastrointest Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34224393",
+   "pmcid": null,
+   "doi": "10.1556/2060.2021.00125",
+   "title": "An autophagy-related long non-coding RNA signature for patients with colorectal cancer.",
+   "year": "2021",
+   "journal": "Physiol Int",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33390777",
+   "pmcid": "PMC7738973",
+   "doi": "10.7150/ijms.49449",
+   "title": "Identification and Validation of Six Autophagy-related Long Non-coding RNAs as Prognostic Signature in Colorectal Cancer.",
+   "year": "2021",
+   "journal": "Int J Med Sci",
+   "pubType": [
+    "research-article",
+    "Validation Study",
+    "Journal Article",
+    "Observational Study"
+   ]
+  },
+  {
+   "pmid": "34426753",
+   "pmcid": "PMC8379639",
+   "doi": "10.1155/2021/2401617",
+   "title": "Identification of Six Autophagy-Related-lncRNA Prognostic Biomarkers in Uveal Melanoma.",
+   "year": "2021",
+   "journal": "Dis Markers",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34250091",
+   "pmcid": "PMC8238568",
+   "doi": "10.1155/2021/8848227",
+   "title": "A Novel Autophagy-Related lncRNA Gene Signature to Improve the Prognosis of Patients with Melanoma.",
+   "year": "2021",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34988177",
+   "pmcid": "PMC8667135",
+   "doi": "10.21037/atm-21-5156",
+   "title": "Autophagy-related long non-coding RNA signature for potential prognostic biomarkers of patients with cervical cancer: a study based on public databases.",
+   "year": "2021",
+   "journal": "Ann Transl Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36880066",
+   "pmcid": "PMC9985460",
+   "doi": "10.1515/med-2023-0660",
+   "title": "A novel autophagy-related long non-coding RNAs signature predicting progression-free interval and I-131 therapy benefits in papillary thyroid carcinoma.",
+   "year": "2023",
+   "journal": "Open Med (Wars)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35121801",
+   "pmcid": "PMC8817038",
+   "doi": "10.1038/s41598-022-05922-4",
+   "title": "Identification and validation of an autophagy-related gene signature for predicting prognosis in patients with esophageal squamous cell carcinoma.",
+   "year": "2022",
+   "journal": "Sci Rep",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33717544",
+   "pmcid": "PMC7947511",
+   "doi": "10.21037/jtd-20-2803",
+   "title": "Identification and validation of an autophagy-related long non-coding RNA signature as a prognostic biomarker for patients with lung adenocarcinoma.",
+   "year": "2021",
+   "journal": "J Thorac Dis",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33960661",
+   "pmcid": "PMC8184684",
+   "doi": "10.1111/jcmm.16552",
+   "title": "Identification of autophagy-related genes signature predicts chemotherapeutic and immunotherapeutic efficiency in bladder cancer (BLCA).",
+   "year": "2021",
+   "journal": "J Cell Mol Med",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35677537",
+   "pmcid": "PMC9169202",
+   "doi": "10.1155/2022/3922739",
+   "title": "Identification of an Autophagy-Related Signature Based on Whole Bone Marrow Sequencing for the Prognosis and Immune Microenvironment Characterization of Multiple Myeloma.",
+   "year": "2022",
+   "journal": "J Immunol Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35645615",
+   "pmcid": "PMC9124146",
+   "doi": "10.1155/2022/3895396",
+   "title": "An Independent Prognostic Model Based on Ten Autophagy-Related Long Noncoding RNAs in Pancreatic Cancer Patients.",
+   "year": "2022",
+   "journal": "Genet Res (Camb)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34211979",
+   "pmcid": "PMC8239411",
+   "doi": "10.3389/fcell.2021.694633",
+   "title": "Bioinformatic Analyses Identify a Prognostic Autophagy-Related Long Non-coding RNA Signature Associated With Immune Microenvironment in Diffuse Gliomas.",
+   "year": "2021",
+   "journal": "Front Cell Dev Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35884522",
+   "pmcid": "PMC9317787",
+   "doi": "10.3390/cancers14143462",
+   "title": "Autophagy-Related Gene Signature Highlights Metabolic and Immunogenic Status of Malignant Cells in Non-Small Cell Lung Cancer Adenocarcinoma.",
+   "year": "2022",
+   "journal": "Cancers (Basel)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34897033",
+   "pmcid": "PMC8714132",
+   "doi": "10.18632/aging.203765",
+   "title": "A risk model based on autophagy-related lncRNAs for predicting prognosis and efficacy of immunotherapy and chemotherapy in gastric cancer patients.",
+   "year": "2021",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34220946",
+   "pmcid": "PMC8248343",
+   "doi": "10.3389/fgene.2021.673319",
+   "title": "Novel Autophagy-Related Gene Signature Investigation for Patients With Oral Squamous Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35571053",
+   "pmcid": "PMC9101482",
+   "doi": "10.3389/fgene.2022.885391",
+   "title": "A Novel Risk Model Based on Autophagy-Related LncRNAs Predicts Prognosis and Indicates Immune Infiltration Landscape of Patients With Cutaneous Melanoma.",
+   "year": "2022",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35611195",
+   "pmcid": "PMC9048552",
+   "doi": "10.12998/wjcc.v10.i11.3334",
+   "title": "Autophagy-related long non-coding RNA prognostic model predicts prognosis and survival of melanoma patients.",
+   "year": "2022",
+   "journal": "World J Clin Cases",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35725019",
+   "pmcid": null,
+   "doi": "10.1136/jim-2022-002379",
+   "title": "Construction and validation of an autophagy-related long non-coding RNA signature to predict the prognosis of kidney renal papillary cell carcinoma.",
+   "year": "2022",
+   "journal": "J Investig Med",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34256900",
+   "pmcid": "PMC8387651",
+   "doi": "10.3779/j.issn.1009-3419.2021.103.09",
+   "title": "[Construction and Validation of Prognostic Risk Score Model of Autophagy Related Genes in Lung Adenocarcinoma].",
+   "year": "2021",
+   "journal": "Zhongguo Fei Ai Za Zhi",
+   "pubType": [
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34721517",
+   "pmcid": "PMC8548643",
+   "doi": "10.3389/fgene.2021.698284",
+   "title": "A Novel Six Autophagy-Related Genes Signature Associated With Outcomes and Immune Microenvironment in Lower-Grade Glioma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36097121",
+   "pmcid": null,
+   "doi": "10.1007/s11033-022-07426-w",
+   "title": "The association between several autophagy-related genes and their prognostic values in hepatocellular carcinoma: a study on the foundation of TCGA, GEPIA and HPA databases.",
+   "year": "2022",
+   "journal": "Mol Biol Rep",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34671615",
+   "pmcid": "PMC8521014",
+   "doi": "10.3389/fmed.2021.715250",
+   "title": "Development and Verification of an Autophagy-Related lncRNA Signature to Predict Clinical Outcomes and Therapeutic Responses in Ovarian Cancer.",
+   "year": "2021",
+   "journal": "Front Med (Lausanne)",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33351066",
+   "pmcid": "PMC7812060",
+   "doi": "10.1042/bsr20203231",
+   "title": "Identification of an autophagy-related gene signature predicting overall survival for hepatocellular carcinoma.",
+   "year": "2021",
+   "journal": "Biosci Rep",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33868366",
+   "pmcid": "PMC8047156",
+   "doi": "10.3389/fgene.2021.625583",
+   "title": "Autophagy-Related Long Non-coding RNA Signature as Indicators for the Prognosis of Uveal Melanoma.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33796128",
+   "pmcid": "PMC8007922",
+   "doi": "10.3389/fgene.2021.569318",
+   "title": "A Signature of Autophagy-Related Long Non-coding RNA to Predict the Prognosis of Breast Cancer.",
+   "year": "2021",
+   "journal": "Front Genet",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33604190",
+   "pmcid": "PMC7866901",
+   "doi": "10.7717/peerj.10814",
+   "title": "The expression characteristics and prognostic roles of autophagy-related genes in gastric cancer.",
+   "year": "2021",
+   "journal": "PeerJ",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34737609",
+   "pmcid": "PMC8558832",
+   "doi": "10.2147/ijgm.s334601",
+   "title": "A Five Autophagy-Related Long Non-Coding RNA Prognostic Model for Patients with Lung Adenocarcinoma.",
+   "year": "2021",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34135913",
+   "pmcid": "PMC8200670",
+   "doi": "10.3389/fimmu.2021.695865",
+   "title": "Prognosis and Characterization of Immune Microenvironment in Acute Myeloid Leukemia Through Identification of an Autophagy-Related Signature.",
+   "year": "2021",
+   "journal": "Front Immunol",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34315829",
+   "pmcid": "PMC8351728",
+   "doi": "10.18632/aging.203352",
+   "title": "Development and validation of prognostic model based on the analysis of autophagy-related genes in colon cancer.",
+   "year": "2021",
+   "journal": "Aging (Albany NY)",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33575215",
+   "pmcid": "PMC7871905",
+   "doi": "10.3389/fonc.2020.603864",
+   "title": "Identification of Three Autophagy-Related Long Non-Coding RNAs as a Novel Head and Neck Squamous Cell Carcinoma Prognostic Signature.",
+   "year": "2020",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33948361",
+   "pmcid": "PMC8085875",
+   "doi": null,
+   "title": "Establishment and verification of prognostic model for gastric cancer based on autophagy-related genes.",
+   "year": "2021",
+   "journal": "Am J Cancer Res",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33869042",
+   "pmcid": "PMC8049181",
+   "doi": "10.3389/fonc.2021.647236",
+   "title": "Autophagy-Related Long Non-coding RNA Is a Prognostic Indicator for Bladder Cancer.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35371338",
+   "pmcid": "PMC8975700",
+   "doi": "10.1155/2022/8920926",
+   "title": "Diagnostic Value and Prognostic Evaluation of Autophagy-Related Protein Expression Level in Sepsis Complicated with Acute Respiratory Distress Syndrome.",
+   "year": "2022",
+   "journal": "Dis Markers",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33575221",
+   "pmcid": "PMC7870991",
+   "doi": "10.3389/fonc.2020.626175",
+   "title": "The Autophagy Related Gene CHAF1B Is a Relevant Prognostic and Diagnostic Biomarker in Hepatocellular Carcinoma.",
+   "year": "2020",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34095215",
+   "pmcid": "PMC8176230",
+   "doi": "10.3389/fmolb.2021.615084",
+   "title": "Development of a Machine Learning-Based Autophagy-Related lncRNA Signature to Improve Prognosis Prediction in Osteosarcoma Patients.",
+   "year": "2021",
+   "journal": "Front Mol Biosci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34692467",
+   "pmcid": "PMC8531750",
+   "doi": "10.3389/fonc.2021.613949",
+   "title": "A Novel Prognostic Prediction Model for Colorectal Cancer Based on Nine Autophagy-Related Long Noncoding RNAs.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33435917",
+   "pmcid": "PMC7802146",
+   "doi": "10.1186/s12885-020-07596-5",
+   "title": "Systematic profiling of diagnostic and prognostic value of autophagy-related genes for sarcoma patients.",
+   "year": "2021",
+   "journal": "BMC Cancer",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34306201",
+   "pmcid": "PMC8281215",
+   "doi": "10.3892/etm.2021.10364",
+   "title": "Autophagy-related genes contribute to malignant progression and have a clinical prognostic impact in colon adenocarcinoma.",
+   "year": "2021",
+   "journal": "Exp Ther Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34257653",
+   "pmcid": "PMC8253645",
+   "doi": "10.1155/2021/5583400",
+   "title": "Identification and Validation of Autophagy-Related Gene Nomograms to Predict the Prognostic Value of Patients with Cervical Cancer.",
+   "year": "2021",
+   "journal": "J Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33778066",
+   "pmcid": "PMC7979286",
+   "doi": "10.1155/2021/5564040",
+   "title": "Identification and Validation of a Prognostic Model Based on Three Autophagy-Related Genes in Hepatocellular Carcinoma.",
+   "year": "2021",
+   "journal": "Biomed Res Int",
+   "pubType": [
+    "research-article",
+    "Validation Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34815705",
+   "pmcid": "PMC8605829",
+   "doi": "10.2147/ijgm.s333697",
+   "title": "A Novel Autophagy-Related Long Non-Coding RNA Signature to Predict Prognosis and Therapeutic Response in Esophageal Squamous Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Int J Gen Med",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "35083210",
+   "pmcid": "PMC8785981",
+   "doi": "10.3389/fcell.2021.729485",
+   "title": "Prognostic Autophagy-Related Model Revealed by Integrating Single-Cell RNA Sequencing Data and Bulk Gene Profiles in Gastric Cancer.",
+   "year": "2021",
+   "journal": "Front Cell Dev Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33402116",
+   "pmcid": "PMC7786978",
+   "doi": "10.1186/s12885-020-07725-0",
+   "title": "Identification of a novel six autophagy-related genes signature for the prognostic and a miRNA-related autophagy predictor for anti-PD-1 therapy responses in prostate cancer.",
+   "year": "2021",
+   "journal": "BMC Cancer",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33650306",
+   "pmcid": "PMC7982638",
+   "doi": "10.1002/cam4.3820",
+   "title": "Construction and validation of an autophagy-related long noncoding RNA signature for prognosis prediction in kidney renal clear cell carcinoma patients.",
+   "year": "2021",
+   "journal": "Cancer Med",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34350832",
+   "pmcid": null,
+   "doi": "10.4149/gpbˍ2021008",
+   "title": "Identification of an autophagy-related 10-lncRNA-mRNA signature for distinguishing glioblastoma multiforme from lower‑grade glioma and prognosis prediction.",
+   "year": "2021",
+   "journal": "Gen Physiol Biophys",
+   "pubType": [
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34414116",
+   "pmcid": "PMC8370088",
+   "doi": "10.3389/fonc.2021.711736",
+   "title": "A Novel Prognostic Model Based on Autophagy-Related Long Non-Coding RNAs for Clear Cell Renal Cell Carcinoma.",
+   "year": "2021",
+   "journal": "Front Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33679977",
+   "pmcid": "PMC7910047",
+   "doi": "10.1155/2021/8810849",
+   "title": "Development of an Autophagy-Related Gene Prognostic Model and Nomogram for Estimating Renal Clear Cell Carcinoma Survival.",
+   "year": "2021",
+   "journal": "J Oncol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34294687",
+   "pmcid": "PMC8298711",
+   "doi": "10.1038/s41419-021-04015-w",
+   "title": "Autophagy-related circRNA evaluation reveals hsa_circ_0001747 as a potential favorable prognostic factor for biochemical recurrence in patients with prostate cancer.",
+   "year": "2021",
+   "journal": "Cell Death Dis",
+   "pubType": [
+    "Research Support, Non-U.S. Gov't",
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34616731",
+   "pmcid": "PMC8488280",
+   "doi": "10.3389/fcell.2021.719011",
+   "title": "Development and Validation of a Prognostic Autophagy-Related Gene Pair Index Related to Tumor-Infiltrating Lymphocytes in Early-Stage Lung Adenocarcinoma.",
+   "year": "2021",
+   "journal": "Front Cell Dev Biol",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34349109",
+   "pmcid": "PMC8338924",
+   "doi": "10.1038/s41419-021-04051-6",
+   "title": "Correction: Autophagy-related circRNA evaluation reveals hsa_circ_0001747 as a potential favorable prognostic factor for biochemical recurrence in patients with prostate cancer.",
+   "year": "2021",
+   "journal": "Cell Death Dis",
+   "pubType": [
+    "Published Erratum",
+    "correction"
+   ]
+  },
+  {
+   "pmid": "39649276",
+   "pmcid": "PMC11623155",
+   "doi": "10.5114/aoms/140293",
+   "title": "Prognostic model and immune-infiltrating cell landscape based on differentially expressed autophagy-related genes in TP53-mutated multiple myeloma.",
+   "year": "2024",
+   "journal": "Arch Med Sci",
+   "pubType": [
+    "research-article",
+    "Journal Article"
+   ]
+  }
+ ]
+}
