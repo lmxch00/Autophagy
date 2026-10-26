@@ -3,6 +3,7 @@
 **Correspondence / 对应稿件**
 Autophagy-related prognostic signatures report gene expression, not autophagic flux: 169 coded reports from a census of 212
 
+**Repository / 仓库**: https://github.com/lmxch00/Autophagy (public, published 26 October 2026) · **Archived copy / 归档副本**: https://doi.org/10.17605/OSF.IO/9SRG3 (OSF, 26 October 2026)
 **Target journal / 目标期刊**: Autophagy (Taylor & Francis)
 **Version / 版本**: v2, 2026-10-26
 **Author · contact / 作者 · 联系方式**: Bing Zhang, Department of Oncology, Tangshan People's Hospital, Tangshan, Hebei, China · yanjiu12@126.com · ORCID 0000-0003-1062-4207
@@ -27,6 +28,9 @@ Autophagy-related prognostic signatures report gene expression, not autophagic f
 | `_audit_clean.py` | Search and coding script, including the query. / 检索与编码脚本（含检索式）。 |
 | `_audit_sentlevel.py` | Sentence-level re-coding script. / 句级复核脚本。 |
 | `make_public_release.py` | Regenerates the published corpus from the full local file by removing the abstracts. / 由本地完整文件生成公开版语料（剔除摘要）。 |
+| `LICENSE` | The licence of this archive: **CC BY 4.0**. / 本归档的许可协议：CC BY 4.0。 |
+| `CITATION.cff` | Citation metadata for GitHub and Zenodo. / GitHub 与 Zenodo 读取的引文元数据。 |
+| `README.md` | This file. / 本文件。 |
 
 **Quoted text / 引文说明**: the two coding files contain short quoted sentences (about 11,000 characters in total, each attached to the PMID of the source report) as the evidence for every tier assignment. These are citations of the kind normally used in critical commentary.
 
@@ -93,26 +97,44 @@ AND (FIRST_PDATE:[2021-01-01 TO 2026-10-26]) NOT PUB_TYPE:"review"
 
 ---
 
-## 8 Before you publish this repository / 发布前请确认
+## 8 Publication status / 发布状态
 
-**EN**
+**EN** — The GitHub repository went live on 26 October 2026 at https://github.com/lmxch00/Autophagy (public, default branch `main`). It contains the nine files listed in §2 and nothing else; each uploaded file was verified against the local copy by Git blob SHA-1, so the published bytes are the reviewed bytes.
 
-1. Choose a licence and add a `LICENSE` file at the repository root (§9).
-2. Check that the repository contains only the seven files listed in §2 — no local paths, no personal files, no manuscript drafts.
-3. Publish, then copy the repository URL into the manuscript's data availability statement. If a citable DOI is needed (Zenodo, OSF), archive the repository there and use that DOI.
-4. Update `letter.md` and `titlepage.md` with the same identifier before submission, so that the letter, the title page and the repository point at one place.
+**中文** — GitHub 仓库已于 2026 年 10 月 26 日上线于 https://github.com/lmxch00/Autophagy（公开仓，默认分支 `main`）。仓库仅含 §2 所列九个文件，无其他内容；每个上传文件均以 Git blob SHA-1 与本地副本逐字节比对一致，即线上即所审。
 
-**中文**
+**Canonical version / 规范版本** — this file is the canonical description of the archive. The copy held in the OSF project may be one revision behind it; the GitHub repository and this file are updated together, and the per-file SHA-256 values in the OSF record are what identifies the archived bytes.
 
-1. 选定许可协议，并在仓库根目录放置 `LICENSE` 文件（见 §9）。
-2. 检查仓库仅含 §2 所列七个文件——无本地路径、无个人文件、无稿件草稿。
-3. 发布后把仓库 URL 填入正文的数据可得性声明；若需可引用的 DOI（Zenodo、OSF），在那里归档本仓库并使用该 DOI。
-4. 投稿前回填 `letter.md` 与 `titlepage.md`，使正文、题名页与仓库指向同一处。
+**Second archive / 第二处归档** — Zenodo, the usual route for archiving a GitHub repository with a DOI, was not reachable from this network (`http=000` on 26 October 2026), so the DOI was minted on **OSF** instead. The nine files are deposited there individually, and each was verified byte-for-byte against this repository by SHA-256 on 26 October 2026: https://doi.org/10.17605/OSF.IO/9SRG3
 
----
+The OSF record is the citable one; this repository remains the live, browsable copy.
+
+**Still open / 尚待完成**
+
+1. **Institutional mirror / 机构镜像** — the repository is held on a personal account. Archiving a copy in an institutional or national repository makes the data durable if the account is withdrawn, and is what reviewers sometimes ask for with personal-account deposits.
+2. **Zenodo, later / 日后再谈 Zenodo** — worth adding a second copy when a network with access to Zenodo is available, so that the DOI resolves from more contexts.
+3. **OSF housekeeping / OSF 收尾**: the OSF project licence is set to **CC BY 4.0**, the project Description carries the DOI and the GitHub link, the project Wiki page "Home" carries this bilingual description, and all nine archived files match this repository byte-for-byte by SHA-256. (OSF does not expose a per-file licence field; the archive licence is recorded at project level and stated in §9. If you are reading an earlier copy of this file, take the current one from the GitHub repository, which is the canonical location.)
+
+**中文** — **OSF 收尾**：OSF 项目许可为 **CC BY 4.0**，Description 含 DOI 与 GitHub 链接，项目 Wiki 的 "Home" 页载有本双语说明，九个归档文件与本仓库逐字节一致。（OSF 不提供文件级许可字段，归档许可记录在项目级，见 §9。若你读的是本文件的较早版本，请以 GitHub 仓库为准——那里是规范位置。）
 
 ## 9 Licence / 许可
 
-**EN** — The licence is to be chosen by the author at deposit (CC BY 4.0 is suggested for a dataset that accompanies a published letter). Please replace this paragraph with the licence actually applied and add the corresponding `LICENSE` file.
+**EN** — This archive is released under **CC BY 4.0** (see the `LICENSE` file). Attribution is required; no additional restrictions apply.
 
-**中文** — 许可协议由作者在上传时选定（针对随信公开的数据集，建议 CC BY 4.0）。定稿时请用实际采用的协议替换本段，并在仓库根目录加入相应的 `LICENSE` 文件。
+**中文** — 本归档以 **CC BY 4.0** 授权发布（见 `LICENSE` 文件）：须署名，无附加限制。
+
+---
+
+## 10 Citing this archive / 如何引用
+
+**EN** — The archive carries a DataCite DOI, which is the identifier to cite. A suggested citation:
+
+> Zhang B. Data and code archive for "Autophagy-related prognostic signatures report gene expression, not autophagic flux: 169 coded reports from a census of 212" [Data set]. OSF; 26 October 2026. https://doi.org/10.17605/OSF.IO/9SRG3
+> Live repository: https://github.com/lmxch00/Autophagy
+
+**中文** — GitHub URL 稳定，但论文中以 DOI 为佳。本仓库当前状态的建议引用格式：
+
+> Zhang B. Data and code archive for "Autophagy-related prognostic signatures report gene expression, not autophagic flux: 169 coded reports from a census of 212" [Data set]. OSF; 26 October 2026. https://doi.org/10.17605/OSF.IO/9SRG3
+> Live repository: https://github.com/lmxch00/Autophagy
+
+引文请用上行的 DOI（DataCite 签发，指向本归档的冻结快照）；第二行为可持续浏览的 GitHub 现行版。
